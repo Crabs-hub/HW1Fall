@@ -9,7 +9,6 @@ public class Test2{
     // Okay to change
     @Test
     public boolean testBubbleSort() {
-        assertTrue(false);
         // add your tests here
         public static void equal(){
             boolean check = true;
