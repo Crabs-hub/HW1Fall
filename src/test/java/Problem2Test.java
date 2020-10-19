@@ -10,18 +10,18 @@ public class Test2{
     @Test
     public boolean testBubbleSort() {
         // add your tests here
-        public static void equal(){
-            boolean check = true;
-            for (int i = 0 ; i < data.length ; i++){
-                if(data[i] < data[i+1]){
 
-                }
-                else if(data[i] > data[i+1]){
-                    check = false;
-                }
+        boolean check = true;
+        for (int i = 0 ; i < data.length ; i++){
+            if(data[i] < data[i+1]){
+
             }
-            return check;
+            else if(data[i] > data[i+1]){
+                check = false;
+            }
         }
-
+        return check;
     }
+
+
 }
