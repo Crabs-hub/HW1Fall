@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class Test2 {
+public class Problem2Test {
 
     // Example test
     // Okay to change
