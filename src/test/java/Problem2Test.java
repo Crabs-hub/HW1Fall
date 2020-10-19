@@ -16,7 +16,7 @@ public class Test2{
                 if(data[i] < data[i+1]){
 
                 }
-                else if(data[i] < data[i+1]){
+                else if(data[i] > data[i+1]){
                     check = false;
                 }
             }
